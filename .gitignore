@@ -49,6 +49,6 @@ lesson2/AccountKitLoginStarterProject/.idea/modules.xml
 lesson2/AccountKitLoginStarterProject/.idea/scopes/scope_settings.xml
 lesson2/AccountKitLoginStarterProject/.idea/vcs.xml
 lesson2/AccountKitLoginStarterProject/*.iml
-lesson2/AccountKitLoginStarterProject/.gradle/
-lesson2/AccountKitLoginStarterProject/.signing/
+lesson2/AccountKitLoginStarterProject/.gradle/*
+lesson2/AccountKitLoginStarterProject/.signing/*
 lesson2/AccountKitLoginStarterProject/local.properties
