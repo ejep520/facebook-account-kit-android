@@ -1,5 +1,5 @@
 # Built application files
-*/build/
+/*/build/
 
 # Crashlytics configuations
 com_crashlytics_export_strings.xml
@@ -51,3 +51,4 @@ lesson2/AccountKitLoginStarterProject/.idea/vcs.xml
 lesson2/AccountKitLoginStarterProject/*.iml
 lesson2/AccountKitLoginStarterProject/.gradle/
 lesson2/AccountKitLoginStarterProject/.signing/
+lesson2/AccountKitLoginStarterProject/local.properties
